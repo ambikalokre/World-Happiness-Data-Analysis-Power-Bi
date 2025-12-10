@@ -8,3 +8,11 @@ To develop an interactive Power BI dashboard that effectively visualizes global 
 ## Dataset used
 - <a href="https://github.com/ambikalokre/World-Happiness-Data-Analysis-Power-Bi/blob/main/World%20Happiness%20Data.xlsx">Dataset</a>
 
+## Project KPIs
+1.	Average Happiness Score: Track the overall trend of global happiness over the analyzed period.
+2.	Happiness Score Variance: Measure the fluctuation of happiness scores across countries and years.
+3.	Top 10 Happiest/Saddest Countries: Identify the most and least happy countries consistently.
+4.	Correlation between Happiness and Key Factors: Analyze the relationship between happiness and factors like GDP per capita, freedom, and healthy life expectancy.
+
+## Dashboard
+
