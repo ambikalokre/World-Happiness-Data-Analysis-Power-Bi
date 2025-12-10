@@ -14,5 +14,6 @@ To develop an interactive Power BI dashboard that effectively visualizes global 
 3.	Top 10 Happiest/Saddest Countries: Identify the most and least happy countries consistently.
 4.	Correlation between Happiness and Key Factors: Analyze the relationship between happiness and factors like GDP per capita, freedom, and healthy life expectancy.
 
-## Dashboard
+## Dashboard Interaction -<a href="https://github.com/ambikalokre/World-Happiness-Data-Analysis-Power-Bi/blob/main/World%20Happiness%20BI%20Dashboard.jpg">View Dashboard</a>
+
 
