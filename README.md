@@ -1,4 +1,5 @@
 #World Happiness Data Analysis (Interactive Dashboard Created using Power BI)
+
 ##Project Objective
 To develop an interactive Power BI dashboard that effectively visualizes global happiness trends from 2015 to 2019. The dashboard will leverage six key charts to:
 1.	Identify the most and least happy countries,
